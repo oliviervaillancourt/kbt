@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
+baseurl: /kbt
+domain_name: 'https://olviervaillancourt.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
