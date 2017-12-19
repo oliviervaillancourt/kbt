@@ -1,9 +1,9 @@
-name: Your New Jekyll Site2
+name: Your New Jekyll Site3
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: '/kbt'
